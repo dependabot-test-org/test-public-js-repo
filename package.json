@@ -6,7 +6,7 @@
     "angular": "1.8.0",
     "qlite3": "5.0.0",
     "lodash": "4.16",
-    "vm2": "3.9.14",
+    "vm2": "3.9.19",
     "Sequelize": "6.18.0"
   },
   "devDependencies" : {
