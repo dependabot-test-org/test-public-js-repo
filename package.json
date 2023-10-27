@@ -19,7 +19,7 @@
     "JSZip": "3.7",
     "tar": "5.0.0",
     "jsonwebtoken": "8.5.1",
-    "terser": "5.0.0",
+    "terser": "5.14.2",
     "ws": "0.2.6",
     "webpack": "^3.0.0"
   }
